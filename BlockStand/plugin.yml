@@ -1,0 +1,8 @@
+name: Stand
+version: 1.0
+api-version: 1.16
+main: com.stand.main.Stand
+author: Unfairbody96
+commands:
+  stand:
+    description: Base main command
